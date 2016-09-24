@@ -7,7 +7,7 @@
  * # adminPosHeader
  */
 
-angular.module('sbAdminApp')
+angular.module('traffix')
   .directive('sidebarSearch',function() {
     return {
       templateUrl:'scripts/directives/sidebar/sidebar-search/sidebar-search.html',
